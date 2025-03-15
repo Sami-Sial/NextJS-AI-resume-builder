@@ -1,1 +1,1 @@
-# NextJS-AI-resume-builderr
+# NextJS-AI-resume-builder
